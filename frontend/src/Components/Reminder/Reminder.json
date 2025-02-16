@@ -1,0 +1,17 @@
+[
+    {
+      "message": "Meeting with client",
+      "date": "2025-02-10",
+      "time": "10:00 AM",
+      "type": "Once",
+      "assignTo": "John Doe",
+      "action": ""
+    },
+    {
+      "message": "Team standup call",
+      "date": "2025-02-11",
+      "time": "09:00 AM",
+      "type": "Daily",
+      "assignTo": "Jane Smith"
+    }
+  ]
